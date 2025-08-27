@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Fundo da seção inicial */
+  .inicio-fundo {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+      url("https://akamai.sscdn.co/uploadfile/letras/fotos/9/4/1/e/941e6d5bc2d54bde8e90bba3bbf32e7f.jpg")
+      no-repeat center center/cover;
+  }
